@@ -1,0 +1,15 @@
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.DataAccess\bin\Debug\netcoreapp3.1\WebProdavnica.DataAccess.deps.json
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.DataAccess\bin\Debug\netcoreapp3.1\WebProdavnica.DataAccess.dll
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.DataAccess\obj\Debug\netcoreapp3.1\WebProdavnica.DataAccess.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.DataAccess\obj\Debug\netcoreapp3.1\WebProdavnica.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.DataAccess\obj\Debug\netcoreapp3.1\WebProdavnica.DataAccess.AssemblyInfo.cs
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.DataAccess\bin\Debug\netcoreapp3.1\WebProdavnica.DataAccess.runtimeconfig.json
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.DataAccess\bin\Debug\netcoreapp3.1\WebProdavnica.DataAccess.runtimeconfig.dev.json
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.DataAccess\obj\Debug\netcoreapp3.1\WebProdavnica.DataAccess.genruntimeconfig.cache
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.DataAccess\bin\Debug\netcoreapp3.1\WebProdavnica.DataAccess.pdb
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.DataAccess\bin\Debug\netcoreapp3.1\WebProdavnica.Domain.dll
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.DataAccess\bin\Debug\netcoreapp3.1\WebProdavnica.Domain.pdb
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.DataAccess\obj\Debug\netcoreapp3.1\WebProdavnica.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.DataAccess\obj\Debug\netcoreapp3.1\WebProdavnica.DataAccess.csproj.CopyComplete
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.DataAccess\obj\Debug\netcoreapp3.1\WebProdavnica.DataAccess.dll
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.DataAccess\obj\Debug\netcoreapp3.1\WebProdavnica.DataAccess.pdb

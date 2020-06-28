@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Bogus" Version="29.0.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WebProdavnica.Application\WebProdavnica.Application.csproj" />
+    <ProjectReference Include="..\WebProdavnica.DataAccess\WebProdavnica.DataAccess.csproj" />
+    <ProjectReference Include="..\WebProdavnica.Domain\WebProdavnica.Domain.csproj" />
+    <ProjectReference Include="..\WebProdavnica.Implementations\WebProdavnica.Implementations.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\Slike\" />
+  </ItemGroup>
+
+
+</Project>

@@ -1,0 +1,373 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.Api\\WebProdavnica.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.Api\\WebProdavnica.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.Api\\WebProdavnica.Api.csproj",
+        "projectName": "WebProdavnica.Api",
+        "projectPath": "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.Api\\WebProdavnica.Api.csproj",
+        "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.Application\\WebProdavnica.Application.csproj": {
+                "projectPath": "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.Application\\WebProdavnica.Application.csproj"
+              },
+              "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.DataAccess\\WebProdavnica.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.DataAccess\\WebProdavnica.DataAccess.csproj"
+              },
+              "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.Domain\\WebProdavnica.Domain.csproj": {
+                "projectPath": "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.Domain\\WebProdavnica.Domain.csproj"
+              },
+              "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.Implementations\\WebProdavnica.Implementations.csproj": {
+                "projectPath": "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.Implementations\\WebProdavnica.Implementations.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[29.0.2, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.Application\\WebProdavnica.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.Application\\WebProdavnica.Application.csproj",
+        "projectName": "WebProdavnica.Application",
+        "projectPath": "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.Application\\WebProdavnica.Application.csproj",
+        "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.Domain\\WebProdavnica.Domain.csproj": {
+                "projectPath": "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.Domain\\WebProdavnica.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.DataAccess\\WebProdavnica.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.DataAccess\\WebProdavnica.DataAccess.csproj",
+        "projectName": "WebProdavnica.DataAccess",
+        "projectPath": "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.DataAccess\\WebProdavnica.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.Domain\\WebProdavnica.Domain.csproj": {
+                "projectPath": "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.Domain\\WebProdavnica.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.Domain\\WebProdavnica.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.Domain\\WebProdavnica.Domain.csproj",
+        "projectName": "WebProdavnica.Domain",
+        "projectPath": "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.Domain\\WebProdavnica.Domain.csproj",
+        "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.Implementations\\WebProdavnica.Implementations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.Implementations\\WebProdavnica.Implementations.csproj",
+        "projectName": "WebProdavnica.Implementations",
+        "projectPath": "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.Implementations\\WebProdavnica.Implementations.csproj",
+        "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.Implementations\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.Application\\WebProdavnica.Application.csproj": {
+                "projectPath": "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.Application\\WebProdavnica.Application.csproj"
+              },
+              "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.DataAccess\\WebProdavnica.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Stefan\\source\\repos\\WebProdavnica\\WebProdavnica.DataAccess\\WebProdavnica.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

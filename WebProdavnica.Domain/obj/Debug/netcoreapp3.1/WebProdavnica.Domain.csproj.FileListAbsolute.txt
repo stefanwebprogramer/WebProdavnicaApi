@@ -1,0 +1,9 @@
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.Domain\bin\Debug\netcoreapp3.1\WebProdavnica.Domain.deps.json
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.Domain\bin\Debug\netcoreapp3.1\WebProdavnica.Domain.dll
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.Domain\bin\Debug\netcoreapp3.1\WebProdavnica.Domain.pdb
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.Domain\obj\Debug\netcoreapp3.1\WebProdavnica.Domain.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.Domain\obj\Debug\netcoreapp3.1\WebProdavnica.Domain.AssemblyInfoInputs.cache
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.Domain\obj\Debug\netcoreapp3.1\WebProdavnica.Domain.AssemblyInfo.cs
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.Domain\obj\Debug\netcoreapp3.1\WebProdavnica.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.Domain\obj\Debug\netcoreapp3.1\WebProdavnica.Domain.dll
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.Domain\obj\Debug\netcoreapp3.1\WebProdavnica.Domain.pdb

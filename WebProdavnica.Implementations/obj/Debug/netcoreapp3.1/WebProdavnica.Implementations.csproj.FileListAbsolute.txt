@@ -1,0 +1,16 @@
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.Implementations\bin\Debug\netcoreapp3.1\WebProdavnica.Implementations.deps.json
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.Implementations\bin\Debug\netcoreapp3.1\WebProdavnica.Implementations.dll
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.Implementations\bin\Debug\netcoreapp3.1\WebProdavnica.Implementations.pdb
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.Implementations\obj\Debug\netcoreapp3.1\WebProdavnica.Implementations.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.Implementations\obj\Debug\netcoreapp3.1\WebProdavnica.Implementations.AssemblyInfoInputs.cache
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.Implementations\obj\Debug\netcoreapp3.1\WebProdavnica.Implementations.AssemblyInfo.cs
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.Implementations\obj\Debug\netcoreapp3.1\WebProdavnica.Implementations.dll
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.Implementations\obj\Debug\netcoreapp3.1\WebProdavnica.Implementations.pdb
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.Implementations\bin\Debug\netcoreapp3.1\WebProdavnica.Application.dll
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.Implementations\bin\Debug\netcoreapp3.1\WebProdavnica.DataAccess.dll
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.Implementations\bin\Debug\netcoreapp3.1\WebProdavnica.Domain.dll
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.Implementations\bin\Debug\netcoreapp3.1\WebProdavnica.Application.pdb
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.Implementations\bin\Debug\netcoreapp3.1\WebProdavnica.DataAccess.pdb
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.Implementations\bin\Debug\netcoreapp3.1\WebProdavnica.Domain.pdb
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.Implementations\obj\Debug\netcoreapp3.1\WebProdavnica.Implementations.csproj.CopyComplete
+C:\Users\Stefan\source\repos\WebProdavnica\WebProdavnica.Implementations\obj\Debug\netcoreapp3.1\WebProdavnica.Implementations.csproj.CoreCompileInputs.cache
